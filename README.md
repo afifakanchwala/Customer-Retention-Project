@@ -147,16 +147,7 @@ This dashboard enables:
 
 Customer-Retention-Project/
 │
-├── screenshots/
-│   ├── avg_purchase.png
-│   ├── churn_rate.png
-│   ├── kpis.png
-│   ├── loyalty_promotion.png
-│   ├── most_purchased.png
-│   ├── redemption_retention.png
-│   ├── segmentation.png
-│   └── store_channel_insights.png
-│
+├── screenshots
 ├── CSV datasets
 ├── Power BI file (.pbix)
 └── README.md
